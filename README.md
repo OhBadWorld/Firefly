@@ -337,5 +337,6 @@ nvm install latest
 npm uninstall -g pnpm
 npm install -g pnpm@9.14.4
 
-参考文章：https://blog.olinl.com/posts/firefly-first/#%E5%AE%89%E8%A3%85-git
+参考文章： https://blog.olinl.com/posts/firefly-first/#%E5%AE%89%E8%A3%85-git
+参考视频： https://www.bilibili.com/video/BV1aVj66CEXn/
 ```
