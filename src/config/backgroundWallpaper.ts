@@ -81,17 +81,17 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 			// 是否允许用户通过控制面板切换横幅标题显示
 			switchable: true,
 			// 主页横幅主标题
-			title: "Lovely firefly!",
+			title: "一切都是最好的安排!",
 			// 主页横幅主标题字体大小
 			titleSize: "3.8rem",
 			// 主页横幅副标题
 			subtitle: [
-				"In Reddened Chrysalis, I Once Rest",
-				"From Shattered Sky, I Free Fall",
-				"Amidst Silenced Stars, I Deep Sleep",
-				"Upon Lighted Fyrefly, I Soon Gaze",
-				"From Undreamt Night, I Thence Shine",
-				"In Finalized Morrow, I Full Bloom",
+				"相信“相信”的力量",
+				"行到水穷处，坐看云起时",
+				"人生的意义在于修炼灵魂,首先要有纯洁美丽的心灵",
+				"这是思考人生要具备的, 拥有什么样的心灵",
+				"就会选择什么样的人生, 实现什么样的人生价值",
+				"恶劣的地方远离就会好, 今后的人生仍旧带着真诚",
 			],
 			// 主页横幅副标题字体大小
 			subtitleSize: "1.5rem",
