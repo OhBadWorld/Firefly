@@ -50,6 +50,15 @@ export const friendsConfig: FriendLink[] = [
 		weight: 8,
 		enabled: true,
 	},
+	{
+		title: "糖羽仙",
+		imgurl: "https://www.tangyuxian.com/images/head/head.jpg",
+		desc: "本糖是一名奋斗在职场的小码农,主前端辅后端,建立个人网站的初衷是希望拥有一个能够有一个随时展示自己,同时记录各种技术文章,总结工作学习内容和分享个人经历的个人小笔记;网站主内容覆盖关于前端,后端,服务器相关技术文章,同时也会更新发布一些动漫,游戏等偏个人兴趣爱好的文章",
+		siteurl: "https://www.tangyuxian.com/",
+		tags: ["Blog"],
+		weight: 10,
+		enabled: true,
+	},
 ];
 
 // 获取启用的友链并进行排序
