@@ -12,7 +12,7 @@ export const siteConfig: SiteConfig = {
 	subtitle: "xichaoqun's site",
 
 	// 站点 URL
-	site_url: "https://blog1.xichaoqun.top",
+	site_url: "https://blog.xichaoqun.top",
 
 	// 站点描述
 	description:
