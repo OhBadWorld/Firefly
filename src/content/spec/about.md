@@ -2,6 +2,10 @@
 
 你好！我是 **海的对岸** ，一个在数字世界中默默无闻的一片叶子。
 
+[我的掘金地址](https://juejin.cn/user/3324525301727949)
+
+[我的博客园地址](https://www.cnblogs.com/yingyigongzi)
+
 ## 🛠️ 关于本站
 
 这个网站使用 **Astro** 框架构建，采用了 [Firefly](https://github.com/CuteLeaf/Firefly) 模板，Firefly 是基于 [Fuwari](https://github.com/saicaca/fuwari) 的二次开发。
